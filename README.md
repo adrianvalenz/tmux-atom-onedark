@@ -13,7 +13,7 @@
 2. Add the OneDark plugin:
 
 ```bash
-set -g @plugin 'heuristicAL/tmux-atom-onedark'
+set -g @plugin 'adrianvalenz/tmux-atom-onedark'
 # ...alongside
 set -g @plugin 'tmux-plugins/tpm'
 ```
